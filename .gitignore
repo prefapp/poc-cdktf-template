@@ -1,5 +1,6 @@
 *.d.ts
 *.js
+!.hooks.sscaff.js
 node_modules
 cdktf.out
 cdktf.log
