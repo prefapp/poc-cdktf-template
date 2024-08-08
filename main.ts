@@ -5,7 +5,7 @@ class MyStack extends TerraformStack {
   constructor(scope: Construct, id: string) {
     super(scope, id);
 
-    const a = "{{ $base }}"
+    const a = "{{ $test }}"
     
     console.log(a)
     
